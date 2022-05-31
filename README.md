@@ -26,8 +26,6 @@ AZ-900 | AZ-104 | AZ-500 | MS-900 | SC-900
 ##
 
 ### Skills and Programing Languages
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tiago-Azure" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Tiago-Azure" height="30" width="50" src="\protect.png">
-</div>
+☁️ Cloud Computing
+🛡️ Cybersecurity
+🐍 Python
