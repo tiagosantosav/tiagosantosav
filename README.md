@@ -4,7 +4,7 @@
 
 Cloud Engineer | Microsoft Solutions | Cybersecurity Student
 
-AZ-900 | AZ-104 | AZ-500 | MS-900 | SC-900
+AZ-900 | AZ-104 | AZ-500 | AZ-700 | MS-900 | SC-900
 
 
 ![tiagosantosav GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosantosav&theme=blue-green)
@@ -13,7 +13,7 @@ AZ-900 | AZ-104 | AZ-500 | MS-900 | SC-900
 
 🏡 I’m from Brazil.
 
-📚🐍 I'm currently learning Python and Security.
+📚🐍 I'm currently learning Cloud Security.
 ##
 
 ### Social Networks
