@@ -13,7 +13,7 @@ AZ-900 | AZ-104 | AZ-500 | AZ-700 | MS-900 | SC-900
 
 🏡 I’m from Brazil.
 
-📚🐍 I'm currently learning Cloud Security.
+📚🛡️ I'm currently learning Cloud Security.
 ##
 
 ### Social Networks
