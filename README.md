@@ -24,7 +24,8 @@ AZ-900 | AZ-104 | AZ-500 | AZ-700 | AZ-305 | MS-900 | SC-900
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tiagotssbr)](https://twitter.com/tiagotssbr)
 
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&link=https://cloudgeek.com.br)]([https://cloudgeek.com.br](https://cloudgeek.com.br/)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&link)]([https://cloudgeek.com.br](https://cloudgeek.com.br/)
+
 ##
 
 ### Skills and Programing Languages
