@@ -2,7 +2,7 @@
 
 ### I'm Tiago Santos
 
-Cloud Engineer | Microsoft Solutions | Cybersecurity
+DevOps Engineer | Cloud Engineer | Cybersecurity
 
 AZ-900 | AZ-104 | AZ-500 | AZ-700 | AZ-305 | MS-900 | SC-900
 
