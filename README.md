@@ -9,7 +9,7 @@ AZ-900 | AZ-104 | AZ-500 | AZ-700 | AZ-305 | MS-900 | SC-900
 
 ![tiagosantosav GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosantosav&theme=blue-green)
 
-🛡️ I'm Cybersecurity Student.
+🛡️ I'm DevOps Engineer Student.
 
 🏡 I’m from Brazil.
 
